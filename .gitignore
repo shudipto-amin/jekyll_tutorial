@@ -1,0 +1,6 @@
+# Jekyll generated
+_site/
+.jekyll-cache/
+
+# Temp files
+*.swp
